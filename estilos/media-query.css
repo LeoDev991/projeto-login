@@ -8,6 +8,7 @@
 
     section#ilogin {
         width: 80vw;
+        height: 295px;
 
     }
 
@@ -32,6 +33,7 @@
 
     section#ilogin {
         width: 930px;
+        height: 380px;
 
     }
 
@@ -52,6 +54,7 @@
 
     div#iformulario>p {
         font-size: 1.2em;
+        margin: 20px 0px;
     }
 
 }
