@@ -56,3 +56,12 @@ section#ilogin > div#iformulario {
     padding: 10px;
 
 }
+
+div#iformulario > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div#iformulario > p {
+    font-size: 0.8em;
+}
